@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "StreamElements Remove Twitch Video",
+  "version": "0.1.0",
+  "description": "StreamElements Remove Twitch Video",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://streamelements.com/*"]
+  }]
+
+}
