@@ -1,5 +1,3 @@
-# Create a Chrome extension to modify a website's HTML or CSS
+# StreamElements Remove Twitch Embed Vid
 
-See post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
-
-forked from https://github.com/lateral/chrome-extension-blogpost
+Small personal tool that removes Twitch Vid overlay on a streamer's Streamelements page. Maybe you already have the stream playing (feel free to fork, implement tab scanning where you search each url, if domain belongs to twitch.tv or streamelements.com and the proceeded with the same streamer's username), or maybe you just to save some bandwith.
